@@ -3,23 +3,21 @@ import "./App.css";
 import Logo from "./ui/Logo";
 import Menu from "./ui/Menu";
 import Table from "./ui/Table";
-import Button from "./ui/Button";
-import excelImporter from "./utils/excelImporter";
+import wines from "./data/wine-sheet.json";
 
 function App() {
-  const [isOpen, setIsOpen] = useState(false);
+  const [curOpen, setCurOpen] = useState(null);
 
-  const handleClick = () => {
-    excelImporter();
-  };
+  function handleClick(type) {
+    type === curOpen ? setCurOpen(null) : setCurOpen(type);
+  }
 
   return (
-    <div className={`flex flex-col items-center`}>
+    <div className={`flex flex-col items-center justify-center`}>
       <Logo />
       {/* setIsOpen to be the wine that is opened */}
-      <Menu isOpen={isOpen} onClick={() => setIsOpen(!isOpen)} />
-      {isOpen && <Table />}
-      <Button onClick={handleClick}>Test</Button>
+      <Menu curOpen={curOpen} onOpen={setCurOpen} onClick={handleClick} />
+      {curOpen && <Table data={wines[curOpen]} />}
     </div>
   );
 }

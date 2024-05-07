@@ -1,0 +1,251 @@
+{
+  "Reds": [
+    {
+      "Name": "New Leaf",
+      "Wine Type": "Pinot Noir",
+      "Description": "very tart, lots of tannins, slight earthiness/minerality, ",
+      "Body": "light"
+    },
+    {
+      "Recommend": "x",
+      "Name": "Primarius",
+      "Wine Type": "Pinot Noir",
+      "Description": "balanced, slight tannins, slightly fruity notes,",
+      "Body": "light",
+      "Full Description": "Aromatics suggest brambly cane berries and Bing cherries accented by some subtle notes of cinnamon and clove. The palate carries these aromas on and compliments them with lively acidity and just a hint of oak sweetness. The mouthfeel is round and pleasant and yields some further depth suggesting Morello cherries and nutmeg. The finish lingers with soft, silky tannins and leaves an aftertaste of sweet red and black fruits and Christmas spice."
+    },
+    {
+      "Name": "Oswego Grill",
+      "Wine Type": "Pinot Noir",
+      "Description": "rich, ripe, distinctive, polished, well-rounded, and opulent",
+      "Body": "medium"
+    },
+    {
+      "Recommend": "x",
+      "Name": "Erath Resplendent",
+      "Wine Type": "Pinot Noir",
+      "Description": "light, earthy, slight tannins, slight minerality, very balanced",
+      "Body": "light/medium",
+      "Full Description": "Sultry and dark, aromas of black plum, Marionberry, fragrant carnation, and a whisper of vanilla entice and intrigue. The palate is ripe with juicy black cherry, fig, and a hint of the exotic smoky tea. Smooth and satisfying throughout, the finish lingers with dusty tannin and a hint of acidity."
+    },
+    {
+      "Name": "Meoimi",
+      "Wine Type": "Pinot Noir",
+      "Description": "very fruity, very jammy, slight creamy/oily, heavier for a pinot",
+      "Body": "full",
+      "Full Description": "The wine owes much of its complexity to its varied upbringing, unifying grapes from California's most notable winegrowing regions. Meiomi® Pinot Noir brings you structure and depth seldom seen in a Pinot Noir wine, thanks to its unique and meticulous aging process. Aged for six months in French oak barrels, this California red wine's juicy strawberry flavor and notes of dark berries and toasted mocha add complexity and depth on the palate."
+    },
+    {
+      "Name": "Forbearance",
+      "Wine Type": "Pinot Noir",
+      "Description": " tannins, tart, minerality, high acidity, drier",
+      "Body": "light"
+    },
+    {
+      "Recommend": "x",
+      "Name": "Columbia",
+      "Wine Type": "Merlot",
+      "Description": "slightly tart, balanced, elegant, slightly earthy, slight minerality  great for steaks, ",
+      "Body": "medium",
+      "Full Description": "The deep ruby color of our 2021 Columbia Merlot alludes to enticing aromas of rich ripe fruits and a subtle hint of vanilla and cocoa. The intense sunlight and south facing exposure of this region produced fruit with complex, dark berry character. In the cellar, our oak regimen resulted in pronounced notes of toasted vanilla and baking spice. Balanced acidity complements the textured mouthfeel, leading into a bold, lingering finish."
+    },
+    {
+      "Name": "Alamos Cask",
+      "Wine Type": "Malbec",
+      "Description": "slight spice and peppery, standard malbec taste",
+      "Body": "full",
+      "Full Description": "Alamos Malbec offers layers of dark cherry and blackberry and a velvety mouthfeel. Aromas of violet intertwine with spice and vanilla, while balanced tannins create a velvety mouthfeel and expansive finish. This Malbec delivers a complex fine red wine that pairs beautifully with a wide range of cuisine and goes beyond the expected."
+    },
+    {
+      "Name": "Cline",
+      "Wine Type": "Zinfandel",
+      "Description": "lighter, fruity, sweet, great for hot days (if they don't like white whine).",
+      "Body": "medium",
+      "Full Description": "Dark berry, cherry and strawberry notes hover over spice and vanilla from aging in French oak barrels."
+    },
+    {
+      "Name": "Gnarly Head",
+      "Wine Type": "Red Blend",
+      "Description": "jammy, fruity, lighter and slightly more tart than other red blend, slight tannins, ",
+      "Body": "full",
+      "Full Description": "Delivering rich aromas of blackberry preserves, cocoa, raspberry and caramel, this red blend sets the stage for a juicy core of concentrated, dense blackberry and fig jam flavors that finish with a hint of baking spice. Jet black in the glass, pair this full-bodied wine with equally bold dishes: charbroiled bacon cheeseburgers, spicy sausage gumbo or pork baby back ribs slathered in barbecue sauce."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Dreaming Tree Crush",
+      "Wine Type": "Red Blend",
+      "Description": "jammy,  medium bodied, slight tannin finish, balanced",
+      "Body": "medium",
+      "Full Description": "Vibrant notes of black cherry and plums. Notes of mocha, baking spices, and toasty oak. Pairs with pulled pork, sandwiches, or chocolate dessert. Sourced primarily from the Mendoza region of Argentina."
+    },
+    {
+      "Name": "14 Hands",
+      "Wine Type": "Cabernet Sauvignon",
+      "Description": "jammy, fruit forward, velvety,  more balanced, slight minerality, ",
+      "Body": "full",
+      "Full Description": "This fruit-forward varietal showcases luscious notes of blueberry, black currant, and raspberry that meld into a velvety finish."
+    },
+    {
+      "Name": "Clos Du Bois",
+      "Wine Type": "Cabernet Sauvignon",
+      "Description": "jammy, fruit forward, velvety, full bodied, less jammy than Beringer",
+      "Body": "full",
+      "Full Description": "Our classic Cabernet Sauvignon displays aromas of black currant, blackberry and toasted oak. Concentrated black fruit and a smooth texture lead to a complex and slightly dry finish. The wine pairs perfectly with your favorite grilled meats or veggies."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Joel Gott \"815\"",
+      "Wine Type": "Cabernet Sauvignon",
+      "Description": "\"the steak cab\", earthy, slightly peppery, slightly acidic,",
+      "Body": "full",
+      "Full Description": "aromas of raspberries, blackberries, plum, and mocha with notes of cinnamon and cedar. The wine opens with red fruit flavors, followed by velvety tannins on the mid-palate and notes of black pepper on the long, textured finish."
+    },
+    {
+      "Name": "Beringer",
+      "Wine Type": "Cabernet Sauvignon",
+      "Description": "fruit forward, jammy, velvety, full bodied",
+      "Body": "full",
+      "Full Description": "A full-bodied red with redcurrants, rust and black chocolate aromas and flavors. Savory. Granular soft tannins. Very drinkable. Give it a year or two to make it even better."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Chateau St Michelle",
+      "Wine Type": "Cabernet Sauvignon",
+      "Description": "balanced, earthy, silky, slight tannins,",
+      "Body": "full",
+      "Full Description": "We craft our Columbia Valley Cabernet to highlight concentrated Washington red fruit in an accessible style. This inviting cab is rich with red fruit flavor, the complexity and structure of this Cabernet Sauvignon remains delectable at every sip – especially when paired with beef, game or burgers."
+    }
+  ],
+  "Whites": [
+    {
+      "Name": "Washington Hills",
+      "Wine Type": "Rieseling",
+      "Description": "sweet, not as sweet as CSM, fruity,  slightly creamy/oily, ",
+      "Body": "light/medium",
+      "Full Description": "The aromas are light for the variety, with notes of lime pith, apricot and honeysuckle. Just off-dry drinking flavors follow. It offers a lot of quality and value."
+    },
+    {
+      "Name": "Chateau St Michelle ",
+      "Wine Type": "Rieseling",
+      "Description": "very sweet, fruity, slightly creamy/oily, medium bodied",
+      "Body": "medium",
+      "Full Description": "Columbia Valley, WA- Inviting and easy to drink with flavors of white peach, apricot, pear and zesty grapefruit. This is a classic Columbia Valley Riesling that is versatile, charming and fun to drink."
+    },
+    {
+      "Name": "Gabbiano",
+      "Wine Type": "Pinot Grigio",
+      "Description": "very dry, high acidity, great for creamier fish dishes, mouth puckering",
+      "Body": "light",
+      "Full Description": "Fruity and floral aromas waft from the glass of this easy Pinot Grigio. Apple, white flowers and citrus peel define the nose and the palate, finishing light and fresh."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Acrobat ",
+      "Wine Type": "Pinot Gris",
+      "Description": "dry, crisp, light, very light fruity tones",
+      "Body": "light",
+      "Full Description": "Light and juicy, with lively and persistent pear, honeydew and spice aromas and flavors."
+    },
+    {
+      "Name": "Willamete Valley",
+      "Wine Type": "Pinot Gris",
+      "Description": "dry, slightly oily, more tart and more fruit notes then other pgs (still not fruity)",
+      "Body": "light/medium",
+      "Full Description": "The wine gracefully incorporates blonde tones with lucidity in the glass. Aromas of guava, passion fruit and honeysuckle balance with a natural minerality from the local terroir."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Lange",
+      "Wine Type": "Pinto Gris",
+      "Description": "balanced, middle of the road pg, medium acidity, not too try dry, subtle, ",
+      "Body": "light",
+      "Full Description": "Aromas of ripe pear, yellow apple, lemon drop, white flowers, and marzipan unfold on the nose. Ripe orchard fruit and melon, accentuated by lemon zest and fresh herbs grace the palate along with mineral tones. The Body is sleek, with bracing acidity, with a finish of orchard fruit, lime, and wet stone."
+    },
+    {
+      "Name": "Del Rio Grenache",
+      "Wine Type": "Rose",
+      "Description": "Very Acidic, not sweet, very crisp, dry",
+      "Body": "light",
+      "Full Description": "Our 100% Estate grown Grenache Rose is pale pink in color and opens with vibrant aromas of fresh wild strawberries, grapefruit, watermelon, and a hint of peach. The juicy aromas carry over to the palate and are accented by notes of fresh florals, mint, and minerality. This wine is clean and crisp with a lively and balanced finish."
+    },
+    {
+      "Name": "MaryHIll",
+      "Wine Type": "Albarino",
+      "Description": "tart, tastes like Savuginon blanc, light, very crisp,",
+      "Body": "light",
+      "Full Description": "Pear blossom, fuji apple, anjou pear and a touch of honeysuckle delight the nose while crisp, tropical flavors of pineapple and citrus round out the palate."
+    },
+    {
+      "Name": "Willakenzie",
+      "Wine Type": "Pinot Blanc",
+      "Description": "very tart, high acidity, makes the mouth pucker, sour",
+      "Body": "light",
+      "Full Description": "This expressive Pinot Blanc is layered with notes of Meyer lemon, blossom honey, and crushed stone. These flavors carry through to a palate that is vibrant and energetic, yet still ample enough to be wonderfully pure and balanced."
+    },
+    {
+      "Recommend": "x",
+      "Name": "MaryHill",
+      "Wine Type": "Viognier",
+      "Description": "sweet, fruity notes, great for summer, light, crisp,",
+      "Body": "light",
+      "Full Description": "Fresh nectar notes with jasmine, grapefruit, and white peach. Apricot and ripe nectarine over honey and a hint of dried chamomile to a long juicy finish."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Joel Gott",
+      "Wine Type": "Sauvignon Blanc",
+      "Description": "subtle/low acdity, slight fruity notes, medium bodied, go well with light fish, slightly oily",
+      "Body": "light",
+      "Full Description": "aromas of white peach, honeydew melon, guava, and passionfruit with citrus notes. On the palate, the wine opens with tropical fruit flavors followed by crisp, refreshing acidity on the mid-palate and notes of tangerine and grapefruit on the long, clean balanced finish."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Kim Crawford",
+      "Wine Type": "Sauvignon Blanc",
+      "Description": "slight acididty (more than Joel Gott), more tart/sour, citrusy",
+      "Body": "light/medium",
+      "Full Description": "Very pale yellow. Classic Marlborough Sauvignon Blanc aromas of lifted citrus, tropical fruit, and crushed herbs. A fresh, juicy wine with vibrant acidity and plenty of weight and length on the palate. Ripe, tropical fruit flavor with passion fruit, melon, and grapefruit."
+    },
+    {
+      "Name": "Sterling Vineyards",
+      "Wine Type": "Chardonnay",
+      "Description": "very oaky, very acidic, slightly oily, more sour, slightly earthly",
+      "Body": "medium",
+      "Full Description": "The 2021 Unoaked Chardonnay is a vibrant and captivating wine that showcases the tropical hallmarks of the style. With its notes of lemon zest, jasmine, and white nectarine intertwined with a bright acidity and delicate finish, it offers a delightful sensory journey. This wine is perfect for those seeking a refreshing and lively Chardonnay."
+    },
+    {
+      "Name": "Chateau St Michelle",
+      "Wine Type": "Chardonnay",
+      "Description": "very oaky, aciditic, citrus ",
+      "Body": "medium",
+      "Full Description": "Our Columbia Valley Chardonnay is crafted in a fresh, soft style with bright apple and sweet citrus fruit character with subtle spice and oak nuances. We blend Chardonnay grapes from vineyards throughout Washington’s Columbia Valley to create this complex yet approachable, food-friendly style."
+    },
+    {
+      "Name": "Kendall Jackson",
+      "Wine Type": "Chardonnay",
+      "Description": "acidic, citrus, medium bodied, oaky",
+      "Body": "medium",
+      "Full Description": "This medium-bodied, barrel-fermented wine offers light, toasted oak aromas, attractive baked apple flavors and accents of butter and vanilla. Good balance keeps it going sip after sip, revealing spice and almond nuances."
+    },
+    {
+      "Recommend": "x",
+      "Name": "Sonoma Cutrer",
+      "Wine Type": "Chardonnay",
+      "Description": "subtle slight oak, slightly oil, balanced chard, medium bodied",
+      "Body": "medium",
+      "Full Description": "stone fruit aromas of peach and nectarine, oak spice with hints of vanilla, toasted nuts, light caramel, and subtle honeydew notes. The creamy richness of this medium-bodied wine boasts flavors of ripe pear and Golden Delicious apple"
+    }
+  ],
+  "Sparkling Wines": [
+    {
+      "Name": "Lunetta",
+      "Wine Type": "Prosecco",
+      "Full Description": "Pale straw with greenish reflections, fine bubbles, and a creamy white foam. Fragrant, with enticing aromas of apple and peach. Refreshing, dry, and harmonious, with crisp fruit flavors and a clean finish."
+    },
+    {
+      "Name": "Ruffino",
+      "Wine Type": "Rose",
+      "Full Description": "lively effervescence, and notes of strawberry, rose petals, red berries, and white fruits. Some say it's light, sweet, and bubbly with refreshing acidity. "
+    }
+  ]
+}
