@@ -24,7 +24,7 @@ function Button({ color, onClick, size, children }) {
       bgColor = "bg-blue-500 hover:bg-blue-700";
       break;
   }
-  const buttonStyle = `${bgColor} text-black font-semibold ${buttonSize} rounded tracking-wider shadow-md`;
+  const buttonStyle = `${bgColor} text-black font-semibold ${buttonSize} rounded tracking-wider shadow-md font-sans`;
   return (
     <button className={buttonStyle} onClick={onClick}>
       {children}

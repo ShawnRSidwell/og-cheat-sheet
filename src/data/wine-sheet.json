@@ -25,7 +25,7 @@
       "Name": "Erath Resplendent",
       "Wine Type": "Pinot Noir",
       "Description": "light, earthy, slight tannins, slight minerality, very balanced",
-      "Body": "light/medium",
+      "Body": "light",
       "Full Description": "Sultry and dark, aromas of black plum, Marionberry, fragrant carnation, and a whisper of vanilla entice and intrigue. The palate is ripe with juicy black cherry, fig, and a hint of the exotic smoky tea. Smooth and satisfying throughout, the finish lingers with dusty tannin and a hint of acidity."
     },
     {
@@ -74,7 +74,7 @@
       "Recommend": "x",
       "Name": "Dreaming Tree Crush",
       "Wine Type": "Red Blend",
-      "Description": "jammy,  medium bodied, slight tannin finish, balanced",
+      "Description": "jammy, slight tannin finish, balanced",
       "Body": "medium",
       "Full Description": "Vibrant notes of black cherry and plums. Notes of mocha, baking spices, and toasty oak. Pairs with pulled pork, sandwiches, or chocolate dessert. Sourced primarily from the Mendoza region of Argentina."
     },
@@ -88,7 +88,7 @@
     {
       "Name": "Clos Du Bois",
       "Wine Type": "Cabernet Sauvignon",
-      "Description": "jammy, fruit forward, velvety, full bodied, less jammy than Beringer",
+      "Description": "jammy, fruit forward, velvety, less jammy than Beringer",
       "Body": "full",
       "Full Description": "Our classic Cabernet Sauvignon displays aromas of black currant, blackberry and toasted oak. Concentrated black fruit and a smooth texture lead to a complex and slightly dry finish. The wine pairs perfectly with your favorite grilled meats or veggies."
     },
@@ -103,7 +103,7 @@
     {
       "Name": "Beringer",
       "Wine Type": "Cabernet Sauvignon",
-      "Description": "fruit forward, jammy, velvety, full bodied",
+      "Description": "fruit forward, jammy, velvety",
       "Body": "full",
       "Full Description": "A full-bodied red with redcurrants, rust and black chocolate aromas and flavors. Savory. Granular soft tannins. Very drinkable. Give it a year or two to make it even better."
     },
@@ -121,14 +121,14 @@
       "Name": "Washington Hills",
       "Wine Type": "Rieseling",
       "Description": "sweet, not as sweet as CSM, fruity,  slightly creamy/oily, ",
-      "Body": "light/medium",
+      "Body": "light",
       "Full Description": "The aromas are light for the variety, with notes of lime pith, apricot and honeysuckle. Just off-dry drinking flavors follow. It offers a lot of quality and value."
     },
     {
       "Name": "Chateau St Michelle ",
       "Wine Type": "Rieseling",
-      "Description": "very sweet, fruity, slightly creamy/oily, medium bodied",
-      "Body": "medium",
+      "Description": "very sweet, fruity, slightly creamy/oily",
+      "Body": "light",
       "Full Description": "Columbia Valley, WA- Inviting and easy to drink with flavors of white peach, apricot, pear and zesty grapefruit. This is a classic Columbia Valley Riesling that is versatile, charming and fun to drink."
     },
     {
@@ -150,7 +150,7 @@
       "Name": "Willamete Valley",
       "Wine Type": "Pinot Gris",
       "Description": "dry, slightly oily, more tart and more fruit notes then other pgs (still not fruity)",
-      "Body": "light/medium",
+      "Body": "light",
       "Full Description": "The wine gracefully incorporates blonde tones with lucidity in the glass. Aromas of guava, passion fruit and honeysuckle balance with a natural minerality from the local terroir."
     },
     {
@@ -194,7 +194,7 @@
       "Recommend": "x",
       "Name": "Joel Gott",
       "Wine Type": "Sauvignon Blanc",
-      "Description": "subtle/low acdity, slight fruity notes, medium bodied, go well with light fish, slightly oily",
+      "Description": "subtle/low acdity, slight fruity notes, go well with light fish, slightly oily",
       "Body": "light",
       "Full Description": "aromas of white peach, honeydew melon, guava, and passionfruit with citrus notes. On the palate, the wine opens with tropical fruit flavors followed by crisp, refreshing acidity on the mid-palate and notes of tangerine and grapefruit on the long, clean balanced finish."
     },
@@ -203,7 +203,7 @@
       "Name": "Kim Crawford",
       "Wine Type": "Sauvignon Blanc",
       "Description": "slight acididty (more than Joel Gott), more tart/sour, citrusy",
-      "Body": "light/medium",
+      "Body": "medium",
       "Full Description": "Very pale yellow. Classic Marlborough Sauvignon Blanc aromas of lifted citrus, tropical fruit, and crushed herbs. A fresh, juicy wine with vibrant acidity and plenty of weight and length on the palate. Ripe, tropical fruit flavor with passion fruit, melon, and grapefruit."
     },
     {
@@ -223,7 +223,7 @@
     {
       "Name": "Kendall Jackson",
       "Wine Type": "Chardonnay",
-      "Description": "acidic, citrus, medium bodied, oaky",
+      "Description": "acidic, citrus, oaky",
       "Body": "medium",
       "Full Description": "This medium-bodied, barrel-fermented wine offers light, toasted oak aromas, attractive baked apple flavors and accents of butter and vanilla. Good balance keeps it going sip after sip, revealing spice and almond nuances."
     },
@@ -231,7 +231,7 @@
       "Recommend": "x",
       "Name": "Sonoma Cutrer",
       "Wine Type": "Chardonnay",
-      "Description": "subtle slight oak, slightly oil, balanced chard, medium bodied",
+      "Description": "subtle slight oak, slightly oil, balanced chard",
       "Body": "medium",
       "Full Description": "stone fruit aromas of peach and nectarine, oak spice with hints of vanilla, toasted nuts, light caramel, and subtle honeydew notes. The creamy richness of this medium-bodied wine boasts flavors of ripe pear and Golden Delicious apple"
     }

@@ -13,12 +13,14 @@ function App() {
   }
 
   return (
-    <div className={`flex flex-col items-center justify-center`}>
-      <Logo />
-      {/* setIsOpen to be the wine that is opened */}
-      <Menu curOpen={curOpen} onOpen={setCurOpen} onClick={handleClick} />
+    <>
+      <div className={`flex flex-col items-center justify-center`}>
+        <Logo />
+        {/* setIsOpen to be the wine that is opened */}
+        <Menu curOpen={curOpen} onOpen={setCurOpen} onClick={handleClick} />
+      </div>
       {curOpen && <Table data={wines[curOpen]} />}
-    </div>
+    </>
   );
 }
 
