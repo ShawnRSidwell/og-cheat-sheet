@@ -1,4 +1,4 @@
-function Button({ color, onClick, size, children }) {
+function Button({ color, onClick, size, disabled, children }) {
   let bgColor;
   let buttonSize;
   switch (size) {
@@ -26,7 +26,7 @@ function Button({ color, onClick, size, children }) {
   }
   const buttonStyle = `${bgColor} font-semibold ${buttonSize} rounded tracking-wider shadow-md font-sans`;
   return (
-    <button className={buttonStyle} onClick={onClick}>
+    <button className={buttonStyle} onClick={onClick} disabled={disabled}>
       {children}
     </button>
   );
