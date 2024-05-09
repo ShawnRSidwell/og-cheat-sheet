@@ -2,8 +2,8 @@ function Table({ data }) {
   if (data.length === 0) return;
   return (
     <div className="relative overflow-x-auto sm:rounded-lg ml-2 md:ml-5">
-      <table className="text-sm text-left shadow-lg text-gray-500 dark:text-gray-400">
-        <thead className="text-xs text-gray-700 uppercase dark:text-gray-400 bg-blue-50 border">
+      <table className="text-sm text-left shadow-lg text-gray-600 dark:text-gray-400">
+        <thead className="text-xs text-gray-900 uppercase dark:text-gray-400 bg-blue-50 border">
           <tr>
             <th scope="col" className="px-1 py-3 border">
               Rec
