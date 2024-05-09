@@ -16,12 +16,12 @@ function Table({ data }) {
             <th scope="col" className="px-2 py-3 border ">
               Body
             </th>
-            <th scope="col" className="px-2 py-3 pr-[500px] md:pr-32 border">
+            <th scope="col" className="px-2 py-3 pr-[300px] md:pr-32 border">
               Quick Description
             </th>
             <th
               scope="col"
-              className="pl-2 pr-[3000px] md:pr-32 text-left border"
+              className="pl-2 pr-[1500px] md:pr-32 text-left border"
             >
               Full Description
             </th>

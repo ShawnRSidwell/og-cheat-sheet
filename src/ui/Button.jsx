@@ -9,7 +9,7 @@ function Button({ color, onClick, size, children }) {
       buttonSize = "py-3 px-10";
       break;
   }
-  // Map color prop to corresponding Tailwind CSS classes
+  // Available to use if button color is needed
   switch (color) {
     case "red":
       bgColor = "bg-rose-700 hover:bg-rose-800 text-white";
@@ -21,10 +21,10 @@ function Button({ color, onClick, size, children }) {
       bgColor = "bg-pink-500 hover:bg-pink-700 text-white";
       break;
     default:
-      bgColor = "bg-blue-500 hover:bg-blue-700";
+      bgColor = "bg-stone-800 hover:bg-stone-600 text-white";
       break;
   }
-  const buttonStyle = `${bgColor} text-black font-semibold ${buttonSize} rounded tracking-wider shadow-md font-sans`;
+  const buttonStyle = `${bgColor} font-semibold ${buttonSize} rounded tracking-wider shadow-md font-sans`;
   return (
     <button className={buttonStyle} onClick={onClick}>
       {children}
