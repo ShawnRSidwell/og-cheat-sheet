@@ -50,13 +50,15 @@ function TableRow({ recommended, name, type, shortDesc, body, fullDesc }) {
   return (
     <tr className="border-b border-gray-200  hover:bg-blue-50">
       <th scope="row" className="px-3 py-1 font-medium text-gray-900  border">
-        {recommended}
+        {recommended === "x" ? "🍷" : ""}
       </th>
       <td className="px-2 py-1 border">{name}</td>
       <td className="px-2 py-1 border ">{type}</td>
       <td className="px-2 py-1 border ">{body}</td>
       <td className="mx-3 px-1 py-2 border ">{shortDesc}</td>
-      <td className="px-2 py-1 max-h-32 border	">{fullDesc}</td>
+      <td className="px-2 py-1 max-h-32 border	">
+        {fullDesc || "Under Construction..."}
+      </td>
     </tr>
   );
 }
