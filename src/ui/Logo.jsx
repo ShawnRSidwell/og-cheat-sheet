@@ -9,7 +9,7 @@ function Logo() {
         alt="OG Logo"
       />
       <h1 className="text-slate-800 font-bold tracking-wide text-xl md:text-2xl uppercase">
-        Cheat Sheet
+        Wine Cheat Sheet
       </h1>
     </div>
   );

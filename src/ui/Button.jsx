@@ -3,7 +3,7 @@ function Button({ color, onClick, size, children }) {
   let buttonSize;
   switch (size) {
     case "small":
-      buttonSize = "py-1 px-1 px-3";
+      buttonSize = "py-1 px-2 md:px-3";
       break;
     default:
       buttonSize = "py-3 px-10";

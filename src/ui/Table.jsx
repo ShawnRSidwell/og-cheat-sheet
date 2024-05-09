@@ -1,11 +1,11 @@
 function Table({ data }) {
   return (
-    <div className="relative overflow-x-auto shadow-md sm:rounded-lg md:ml-5">
-      <table className="text-sm text-left  text-gray-500 dark:text-gray-400">
+    <div className="relative overflow-x-auto sm:rounded-lg ml-2 md:ml-5">
+      <table className="text-sm text-left shadow-lg text-gray-500 dark:text-gray-400">
         <thead className="text-xs text-gray-700 uppercase dark:text-gray-400 bg-blue-50 border">
           <tr>
             <th scope="col" className="px-1 py-3 border">
-              Fav
+              Rec
             </th>
             <th scope="col" className="px-2 py-3 border ">
               Name

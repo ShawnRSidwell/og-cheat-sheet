@@ -5,7 +5,7 @@ function Menu({ curOpen, onClick }) {
     <div
       className={`flex ${
         !curOpen && "flex-col"
-      } text-center gap-3 my-3 mb-5 mx-3`}
+      } text-center gap-3 my-3 mb-3 mx-3`}
     >
       <Button onClick={() => onClick("Reds")} size={curOpen && "small"}>
         Red Wines

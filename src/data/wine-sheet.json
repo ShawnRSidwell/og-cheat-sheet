@@ -240,11 +240,15 @@
     {
       "Name": "Lunetta",
       "Wine Type": "Prosecco",
+      "Body": "light",
+      "Description": "very sweet and sparkly wine, very effervescent",
       "Full Description": "Pale straw with greenish reflections, fine bubbles, and a creamy white foam. Fragrant, with enticing aromas of apple and peach. Refreshing, dry, and harmonious, with crisp fruit flavors and a clean finish."
     },
     {
       "Name": "Ruffino",
       "Wine Type": "Rose",
+      "Body": "light",
+      "Description": "very sweet, fruity and effervescent",
       "Full Description": "lively effervescence, and notes of strawberry, rose petals, red berries, and white fruits. Some say it's light, sweet, and bubbly with refreshing acidity. "
     }
   ]
