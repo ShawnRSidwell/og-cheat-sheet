@@ -1,3 +1,4 @@
+//TO DO: if expanding, break radio button into separate UI component.
 function Filter({ onFilterChange, selectedFilter }) {
   return (
     <div className="mb-2 text-sm leading-6 flex items-center">

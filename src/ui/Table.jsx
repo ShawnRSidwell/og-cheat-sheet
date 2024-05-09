@@ -1,4 +1,5 @@
 function Table({ data }) {
+  if (data.length === 0) return;
   return (
     <div className="relative overflow-x-auto sm:rounded-lg ml-2 md:ml-5">
       <table className="text-sm text-left shadow-lg text-gray-500 dark:text-gray-400">
