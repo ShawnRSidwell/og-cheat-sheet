@@ -2,8 +2,8 @@ function Table({ data }) {
   if (data.length === 0) return;
   return (
     <div className="relative overflow-x-auto sm:rounded-lg ml-2 md:ml-5">
-      <table className="text-sm text-left shadow-lg text-gray-600 dark:text-gray-400">
-        <thead className="text-xs text-gray-900 uppercase dark:text-gray-400 bg-blue-50 border">
+      <table className="text-sm text-left shadow-lg text-gray-600 ">
+        <thead className="text-xs text-gray-900 uppercase  bg-blue-50 border">
           <tr>
             <th scope="col" className="px-1 py-3 border">
               Rec
@@ -48,7 +48,7 @@ function Table({ data }) {
 
 function TableRow({ recommended, name, type, shortDesc, body, fullDesc }) {
   return (
-    <tr className="border-b border-gray-200 dark:border-gray-700 hover:bg-blue-50">
+    <tr className="border-b border-gray-200  hover:bg-blue-50">
       <th scope="row" className="px-3 py-1 font-medium text-gray-900  border">
         {recommended}
       </th>
