@@ -11,14 +11,8 @@ function Button({ color, onClick, size, disabled, children }) {
   }
   // Available to use if button color is needed
   switch (color) {
-    case "red":
-      bgColor = "bg-rose-700 hover:bg-rose-800 text-white";
-      break;
-    case "yellow":
-      bgColor = "bg-yellow-400 hover:bg-yellow-600 text-black";
-      break;
-    case "pink":
-      bgColor = "bg-pink-500 hover:bg-pink-700 text-white";
+    case "selected":
+      bgColor = "border-black border text-black bg-white";
       break;
     default:
       bgColor = "bg-stone-800 hover:bg-stone-600 text-white";

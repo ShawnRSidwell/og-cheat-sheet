@@ -3,7 +3,7 @@ function Table({ data }) {
   return (
     <div className="relative overflow-x-auto sm:rounded-lg ml-2 md:ml-5">
       <table className="text-sm text-left shadow-lg text-gray-500 ">
-        <thead className="text-xs text-gray-900 uppercase  bg-blue-50 border">
+        <thead className="text-xs text-gray-800 uppercase  bg-blue-50 border">
           <tr>
             <th scope="col" className="px-1 py-3 border">
               Rec
