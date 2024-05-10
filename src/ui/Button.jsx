@@ -15,10 +15,11 @@ function Button({ color, onClick, size, disabled, children }) {
       bgColor = "border-black border text-black bg-white";
       break;
     default:
-      bgColor = "bg-stone-800 hover:bg-stone-600 text-white";
+      bgColor =
+        "bg-stone-800 text-white transition-transform transform hover:scale-105 focus:outline-none";
       break;
   }
-  const buttonStyle = `${bgColor} font-semibold ${buttonSize} rounded tracking-wider shadow-md font-sans`;
+  const buttonStyle = `${bgColor} font-medium ${buttonSize} rounded tracking-wider shadow-md font-sans`;
   return (
     <button className={buttonStyle} onClick={onClick} disabled={disabled}>
       {children}
